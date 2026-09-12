@@ -1,0 +1,15 @@
+{
+  "node.js": ["node", "nodejs", "node.js", "express", "express.js", "nestjs", "fastify", "koa", "node/express", "node js", "expressjs"],
+  "react": ["react.js", "reactjs", "react js", "next.js", "nextjs", "redux", "zustand", "react native"],
+  "python": ["django", "fastapi", "flask", "pydantic", "python3"],
+  "sql": ["mysql", "postgresql", "postgres", "sqlite", "mariadb", "rdbms", "relational database", "relational db", "sql database"],
+  "mongodb": ["mongo", "mongoose", "nosql", "nosql database", "document database", "firebase firestore", "firestore"],
+  "rest api": ["restful api", "rest apis", "rest-api", "restful", "rest api", "rest endpoints", "api development", "crud api", "crud apis", "http api", "web api"],
+  "git": ["github", "gitlab", "bitbucket", "version control", "git/github"],
+  "javascript": ["js", "es6", "es6+", "vanilla js", "ecmascript", "vanilla javascript"],
+  "typescript": ["ts", "typescript", ".tsx", ".ts files"],
+  "docker": ["containerization", "container", "docker-compose", "dockerfile"],
+  "aws": ["amazon web services", "cloud", "gcp", "azure", "cloud platform", "cloud basics", "ec2", "s3"],
+  "testing": ["jest", "mocha", "chai", "unit test", "unit testing", "test driven", "tdd", "cypress"],
+  "agile": ["scrum", "agile/scrum", "sprint", "jira", "kanban"]
+}
